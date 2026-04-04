@@ -53,7 +53,3 @@ A lightweight, from-scratch CUDA inference engine for transformer models. Built 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecuong1502&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
